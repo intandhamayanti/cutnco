@@ -1,6 +1,4 @@
-# Copy & Code Connect
 
-saya mau melanjutkan codingan saya disini, beri nama Cut & Co. terakhir saya sedang menyelsaikan pengubahan kalimat2 copy web
 
 This project was built with [Lovable](https://lovable.dev).
 
