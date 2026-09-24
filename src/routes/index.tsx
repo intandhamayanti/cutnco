@@ -83,8 +83,8 @@ const stats = [
 ];
 
 const bookingSteps = ["Layanan", "Barber", "Tanggal", "Jam", "Data diri", "Tinjau", "Bayar", "Selesai"];
-const slots = ["10:00", "10:30", "11:00", "13:30", "14:00", "15:30", "17:00", "18:30", "19:00"];
-const unavailable = new Set(["11:00", "15:30", "19:00"]);
+const slots = ["10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00"];
+const unavailable = new Set(["11:00", "13:00", "15:30", "17:30", "19:00"]);
 const testimonials = [
   { quote: "AKHIRNYA KETEMU BARBER YANG PAHAM MAU SAYA.", name: "RIZKY A.", service: "SIGNATURE CUT", rating: "4.9" },
   { quote: "HASILNYA RAPI, TIDAK TERBURU-BURU, SARANNYA JUGA PAS.", name: "BIMA P.", service: "CUT & WASH", rating: "4.9" },
